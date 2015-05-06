@@ -11,8 +11,8 @@ These are **very simple** custom git commands that enforce the git user to write
 ``` git clone https://github.com/fteem/git-semantic-commits ~/.git-semantic-commits ```
 
 2. Add the folder to your $PATH.
-  * if using Bash, open ```~/.bashrc``` with your favourite editor and add this line: <br/> ``` export PATH=$PATH:$HOME/.git-semantic-commits:$PATH ```
-  * if using Zsh, open ```~/.zshrc``` with your favourite editor and add this line: <br/>  ``` export PATH=$PATH:$HOME/.git-semantic-commits:$PATH ```
+  * if using Bash, open ```~/.bashrc``` with your favourite editor and add this line: <br/> ``` export PATH=$PATH:$HOME/.git-semantic-commits ```
+  * if using Zsh, open ```~/.zshrc``` with your favourite editor and add this line: <br/>  ``` export PATH=$PATH:$HOME/.git-semantic-commits ```
 
     Tip: If you're using Cygwin, open it and type 'echo $USERPROFILE'. This will show you the location of the $HOME directory.
 
